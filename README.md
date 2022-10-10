@@ -39,6 +39,6 @@ npm run devStart
 ## Development
 
 Want to improve? Great!
-Make the changes and raise a PR. Reach out to me over kankvish@gmail.com
+Make the changes and raise a PR. Reach out to me over dhurvelalit8@gmail.com
 
 
